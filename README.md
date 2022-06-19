@@ -22,5 +22,4 @@ I am using CSS Flexbox layout model for centering my "card" component horizontal
 - Flexbox
 
 ## URL
-
-https://qrcode-teona.netlify.app/
+https://qrcode-t.netlify.app/
